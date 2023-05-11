@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jobs>
+  <job>
+    <hash>112211</hash>
+    <description>Job 1 description.</description>
+  </job>
+  <job>
+    <hash>112212</hash>
+    <description>Job 2 description.</description>
+  </job>
+  <job>
+    <hash>112213</hash>
+    <description>Job 3 description.</description>
+  </job>
+</jobs>
